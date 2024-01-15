@@ -1,1 +1,1 @@
-# AzareCookbook
+# AzureCookbook
